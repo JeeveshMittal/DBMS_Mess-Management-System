@@ -49,7 +49,7 @@ CREATE TABLE FEEDBACK (
     Roll_number VARCHAR(20),
     Mess_id INT,
     Rating INT,
-    Comments TEXT,
+    Comments CLOB,
     PRIMARY KEY (Feedback_no, Roll_number, Mess_id),
     FOREIGN KEY (Roll_number) REFERENCES STUDENT(Roll_number),
     FOREIGN KEY (Mess_id) REFERENCES MESS(id)
