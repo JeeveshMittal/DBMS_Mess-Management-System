@@ -11,7 +11,7 @@ We both contributed equally to all major aspects of the project, including plann
 
 ## 🗂️ Overview
 
-This project involves building a structured and optimized **MySQL database** to efficiently handle daily operations in a college or institutional mess system.
+This project involves building a structured and optimized **Oracle SQL database** to efficiently handle daily operations in a college or institutional mess system.
 
 ## ⚙️ Features
 
@@ -21,7 +21,7 @@ This project involves building a structured and optimized **MySQL database** to 
 
 ## 🛠️ Technologies Used
 
-- **MySQL**
+- **Oracle SQL**
 - Relational database design
 - SQL (DDL & DML)
 
